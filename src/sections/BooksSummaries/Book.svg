@@ -1,0 +1,28 @@
+<svg width="256" height="168" viewBox="0 0 256 168" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="26" y="18" width="204" height="132" rx="10" fill="white" stroke="#7A00DA" stroke-width="4"/>
+<path d="M128 20L128 148" stroke="#E9DAD9"/>
+<rect x="44" y="36" width="64" height="4" rx="2" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="44" y="44" width="50" height="4" rx="2" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="140" y="36" width="56" height="4" rx="2" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="140" y="44" width="72" height="4" rx="2" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="140" y="52" width="40" height="4" rx="2" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="44" y="62" width="72" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="44" y="68" width="72" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="44" y="73" width="72" height="4" rx="2" fill="#FF8833"/>
+<rect x="44" y="79" width="24" height="4" rx="2" fill="#FF8833"/>
+<rect x="140" y="91" width="72" height="4" rx="2" fill="#FF8833"/>
+<rect x="140" y="97" width="64" height="4" rx="2" fill="#FF8833"/>
+<rect x="44" y="90" width="72" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="44" y="96" width="72" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="44" y="102" width="48" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="140" y="70" width="72" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="140" y="76" width="72" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="140" y="82" width="48" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="44" y="111" width="72" height="4" rx="2" fill="#FF8833"/>
+<rect x="44" y="117" width="72" height="4" rx="2" fill="#FF8833"/>
+<rect x="44" y="124" width="72" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="44" y="130" width="32" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="140" y="108" width="72" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="140" y="114" width="72" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+<rect x="140" y="120" width="48" height="2" rx="1" fill="#FF8833" fill-opacity="0.2"/>
+</svg>
