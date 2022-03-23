@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { useState } from 'react';
 import { SectionContainer, SectionHeading } from '../../components';
 import { CategoryButton } from './components/CategoryButton';
-import Icons from './categories';
+import Icons from './categoriesData';
 import Active from './activeInterface';
 import AllBooks from './components/AllBooks';
 

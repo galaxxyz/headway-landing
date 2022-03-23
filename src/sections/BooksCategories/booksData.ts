@@ -16,22 +16,28 @@ import book14 from './books/book-snippet-14.png';
 import book15 from './books/book-snippet-15.png';
 
 const Books = {
-  book0: { img: book0, category: 'selfgrowth' },
-  book1: { img: book1, category: 'moneyInvesment' },
-  book2: { img: book2, category: 'happiness' },
-  book3: { img: book3, category: 'negotiation' },
-  book4: { img: book4, category: 'health' },
-  book5: { img: book5, category: 'productivity' },
-  book6: { img: book6, category: 'businessCareer' },
-  book7: { img: book7, category: 'sportsFitness' },
-  book8: { img: book8, category: 'loveSex' },
-  book9: { img: book9, category: 'selfgrowth' },
-  book10: { img: book10, category: 'health' },
-  book11: { img: book11, category: 'spirituality' },
-  book12: { img: book12, category: 'productivity' },
-  book13: { img: book13, category: 'loveSex' },
-  book14: { img: book14, category: 'businessCareer' },
-  book15: { img: book15, category: 'happiness' },
+  row1: [
+    { img: book0, category: 'selfgrowth' },
+    { img: book1, category: 'moneyInvesment' },
+    { img: book2, category: 'negotiation' },
+    { img: book3, category: 'health' },
+    { img: book4, category: 'happiness' },
+  ],
+  row2: [
+    { img: book5, category: 'productivity' },
+    { img: book6, category: 'businessCareer' },
+    { img: book7, category: 'sportsFitness' },
+    { img: book8, category: 'loveSex' },
+    { img: book9, category: 'selfgrowth' },
+    { img: book10, category: 'health' },
+  ],
+  row3: [
+    { img: book11, category: 'spirituality' },
+    { img: book12, category: 'productivity' },
+    { img: book13, category: 'loveSex' },
+    { img: book14, category: 'businessCareer' },
+    { img: book15, category: 'happiness' },
+  ],
 };
 
 export default Books;
